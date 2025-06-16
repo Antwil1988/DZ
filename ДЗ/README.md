@@ -1,4 +1,4 @@
-## Создать Django приложений и добавить следующий модели:
+## Создать Django приложение:
 ### Основные файлы
 
 #### 1. [models.py](https://github.com/Antwil1988/DZ/blob/master/%D0%94%D0%97/library/liba/models.py)
