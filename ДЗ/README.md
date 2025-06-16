@@ -1,6 +1,6 @@
 ### Основные файлы
 
-#### 1. [`models.py`]([liba/models.py](https://github.com/Antwil1988/DZ/blob/master/%D0%94%D0%97/library/liba/models.py))
+#### 1. [`models.py`](DZ/ДЗ/library/liba/models.py)
 Содержит модели данных приложения:
 - `Author` — модель автора книги
 - `Book` — модель книги
