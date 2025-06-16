@@ -1,7 +1,7 @@
 from django.db.models import F, Q, Count, Avg, ExpressionWrapper, DecimalField
 from datetime import time, date
 from django.utils.timezone import datetime
-from library.models import Author, Book, Review
+from liba.models import Author, Book, Review
 
 # Базовые фильтры
 print(Author.objects.filter(first_name='John'))
